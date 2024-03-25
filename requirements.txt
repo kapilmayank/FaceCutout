@@ -1,7 +1,6 @@
-cmake
 streamlit 
 pillow
 opencv-python
 rembg
 streamlit-webrtc
-dlib
+
